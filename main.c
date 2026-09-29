@@ -11,7 +11,7 @@ void push(int value)
 		printf("Stack is Full(Overflow)!\n")
 	}else{
 		top++;
-		stack[top]= value
+		stack[top]= valu
 		prinrf("%d pushed into the stack.\n",value);
 	}
 }
